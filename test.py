@@ -1,7 +1,3 @@
-'''
-inputs and other pointers:
-https://docs.google.com/document/d/1KskoglMEV6W42ZVilPHjwY-cdPREtrF5Aocdd5AnAe4/edit?usp=sharing
-'''
 #importing facebook-sdk
 #import facebook as fb
 import json
